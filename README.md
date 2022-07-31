@@ -1,2 +1,2 @@
 # eb-games
-repo for coolcoder613's games
+repo for coolcoder613eb's games
